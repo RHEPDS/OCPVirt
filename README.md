@@ -3,7 +3,9 @@
 # Red Hat OpenShift Virtualisation
 ## remote version 03 2024
 
-## Part 1 OpenShift Container Virtualisation Overview for Sales and TechSales 
+### Part 1 
+
+## OpenShift Container Virtualisation Overview for Sales and TechSales 
 
 
 9:30		Welcome and Intro
@@ -22,7 +24,8 @@
 
 13:00		Q&A
 
-## Part 2 Architecture Workshop - OpenShift Virtualization for TechSales and Consultants 
+### Part 2 
+## Architecture Workshop - OpenShift Virtualization for TechSales and Consultants 
 
 9:30		Welcome and Intro
 
