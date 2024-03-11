@@ -1,4 +1,4 @@
-<img src="https://github.com/RHEPDS/OCPVirt/blob/main/pcpv_logo.png" width="350" height="350">
+<img src="https://github.com/RHEPDS/OCPVirt/blob/main/Pc_pv_logo.png" width="700" height="200">
 
 # Red Hat OpenShift Virtualisation
 ## remote version 03 2024
