@@ -53,6 +53,4 @@
             
             “Migrate a VMware VM into OpenShift Container Virtualization”
 
-16:00		How to build a simple Demo Lab with OpenShift Single Node and the LVM Storage
-
-16:30		Q&A
+16:30		Open End of WS
