@@ -30,12 +30,10 @@
 9:30		Welcome and Intro
 
 9:45		OpenShift Virtualization Overview 
-
-10:30		Storage and network requirements
-
+		
 11:00		BREAK
 
-11:15		Installation 		
+11:15		Storage and network requirements 		
 
 11:45		Live Demo / Overview 
 
