@@ -20,9 +20,7 @@
 
 12:00		Migration from RHV and VMWare
 
-12:30		Application Migration and OpenShift Virtualisation
-
-13:00		Q&A
+12:30		Q&A
 
 ### Part 2 
 ## Architecture Workshop - OpenShift Virtualization for TechSales and Consultants 
