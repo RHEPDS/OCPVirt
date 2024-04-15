@@ -27,28 +27,18 @@
 
 9:30		Welcome and Intro
 
-9:45		OpenShift Virtualization Overview 
+9:45		OpenShift Virtualization technical P1
 		
 11:00		BREAK
 
-11:15		Storage and network requirements 		
+11:15		OpenShift Virtualisation technical P2	
 
-11:45		Live Demo / Overview 
+12:00		Migration Toolkit for Virtualisation 
 
 12:30		BREAK
 
-13:30		Features and Funktions
+13:30		LAB Demo / Overview
 
-			Templates
-
-			VM Creation
-
-			VM Migration
-
-14:30		Migration Toolkit for Virtualisation
-
-15:00		Introduction to the Hands_on Lab: 
-            
-            “Migrate a VMware VM into OpenShift Container Virtualization”
+14:00		Start your own LAB 		
 
 16:30		Open End of WS
