@@ -25,20 +25,14 @@
 ### Part 2 
 ## Architecture Workshop - OpenShift Virtualization for TechSales and Consultants 
 
-9:30		Welcome and Intro
+09:30 - 11:00	Overview presentation
 
-9:45		OpenShift Virtualization technical P1
-		
-11:00		BREAK
+11:00 - 11:30	Migration Lab (HandsOn)
 
-11:15		OpenShift Virtualisation technical P2	
+11:30 - 12:00	Break
 
-12:00		Migration Toolkit for Virtualisation 
+12:00 - 13:00	OCP-V Lab (HandsOn)
 
-12:30		BREAK
+13:00 - 14:00	Your journey with OpenShift Virtualization
 
-13:30		LAB Demo / Overview
-
-14:00		Start your own LAB 		
-
-16:30		Open End of WS
+14:00 - 17:00	Continued Lab (HandsOn)
