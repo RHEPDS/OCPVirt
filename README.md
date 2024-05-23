@@ -27,12 +27,16 @@
 
 09:30 - 11:00	Overview presentation
 
-11:00 - 11:30	Migration Lab (HandsOn)
+11:30 - 12:00	OCP-V LAB (HandsOn)
 
-11:30 - 12:00	Break
+12:00 - 13:00	Break
 
-12:00 - 13:00	OCP-V Lab (HandsOn)
+13:00 - 14:00 Your journey with OpenShift Virtualization
 
-13:00 - 14:00	Your journey with OpenShift Virtualization
+14:00 - 14:30 OCP Migration LAB (HandsOn)
 
-14:00 - 17:00	Continued Lab (HandsOn)
+14:30 - 14:45 BREAK  	
+
+14:45 - 15:30 Product Journey	
+
+15:30 - 16:30	Continued Lab (HandsOn)
