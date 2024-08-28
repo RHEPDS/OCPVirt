@@ -16,9 +16,7 @@
 
 11:00		BREAK		
 
-11:15		Migration from RHV and VMWare
-
-12:00		
+11:30		Migration from RHV and VMWare		
 
 12:30		Q&A
 
