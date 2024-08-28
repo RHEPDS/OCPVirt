@@ -16,9 +16,9 @@
 
 11:00		BREAK		
 
-11:15		Subscription Models
+11:15		Migration from RHV and VMWare
 
-12:00		Migration from RHV and VMWare
+12:00		
 
 12:30		Q&A
 
