@@ -1,36 +1,20 @@
-<img src="https://github.com/RHEPDS/OCPVirt/blob/main/Pc_pv_logo.png" width="700" height="200">
+# Red Hat OpenShift Virtualisation Deep Dive
+## remote version 10 2024
+ 
+9:30		Welcome and Intro	
 
-# Red Hat OpenShift Virtualisation
-## remote version 03 2024
+9:45		OpenShift Basic installation on Bare Metal Cluster Layout discussion Compact, Single Node, Regular, HCP ….
 
-### Part 1 
-
-## OpenShift Container Virtualisation Overview for Sales and TechSales 
-
-
-9:30		Welcome and Intro
-
-9:45		OpenShift Virtualisation overview
-
-10:30		Live Demo
+10:30		Installing the OpenShift Virtualisation Operator and configuration 
 
 11:00		BREAK		
 
-11:30		Migration from RHV and VMWare		
+11:15		Setting up Local storage (Single Node and OpenShift Data Foundation) Networking options, installing NMStat and SR-IOV
 
-12:30		Q&A
+12:30		LUNCH BREAK
 
-### Part 2 
-## Architecture Workshop - OpenShift Virtualization for TechSales and Consultants 
+13:30		Backup and Disaster Recovery (OADP and ODF)  
 
-09:30 - 11:00	Overview presentation
+14:15		Migration Options (MTV and Ansible Migration) 		
 
-11:30 - 12:00	OCP-V LAB (HandsOn)
-
-12:00 - 13:00	Break
-
-13:00 - 13:30 OCP Migration LAB (HandsOn)
-
-13:30 - 14:30 Your journey with OpenShift Virtualization 		
-
-14:30 - 16:30	Continued Lab (HandsOn)
+15:00		Q&A
