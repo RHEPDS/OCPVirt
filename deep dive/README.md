@@ -15,6 +15,6 @@
 
 13:30		Backup and Disaster Recovery (OADP and ODF)  
 
-14:30		Migration Options (MTV and Ansible Migration) 		
+14:15		Migration Options (MTV and Ansible Migration) 		
 
-15:30		Q&A
+15:00		Q&A
