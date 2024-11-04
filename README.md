@@ -1,11 +1,7 @@
-## LINK to ATOS Recording : https://drive.google.com/file/d/1G9-MXTIrCfsHJtkVUKvOCC_FrzMogUMo/view?usp=sharing
-
-
-
 <img src="https://github.com/RHEPDS/OCPVirt/blob/main/Pc_pv_logo.png" width="700" height="200">
 
 # Red Hat OpenShift Virtualisation
-## remote version 03 2024
+## remote version 11 2024
 
 ### Part 1 
 
