@@ -1,18 +1,21 @@
 # Red Hat OpenShift Virtualisation Deep Dive
-## remote version 10 2024
+## remote version 01 2025
  
-9:00		Welcome and Intro	
+9:30 Welcome and Intro
 
-9:15		OpenShift Basic installation on Bare Metal Cluster Layout discussion Compact, Single Node, Regular, HCP ….
+9:45 OpenShift Basic installation on Bare Metal Cluster Layout discussion Compact, Single Node, Regular, HCP ….
 
-10:00		Installing the OpenShift Virtualisation Operator and configuration 
+10:30 Installing the OpenShift Virtualisation Operator and configuration
 
-10:30		BREAK		
+11:00 BREAK
 
-10:45		Setting up Local storage (Single Node and OpenShift Data Foundation) Networking options, installing NMStat and SR-IOV
 
-12:00		Backup and Disaster Recovery (OADP and ODF)  
+11:15 Setting up Local storage (Single Node and OpenShift Data Foundation) Networking options, installing NMStat and SR-IOV
 
-12:30		Migration Options (MTV and Ansible Migration) 		
+12:30 LUNCH BREAK
 
-14:00		Q&A
+13:30 Backup and Disaster Recovery (OADP and ODF)
+
+14:15 Migration Options (MTV and Ansible Migration)
+
+15:00 Q&A
