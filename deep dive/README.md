@@ -7,8 +7,6 @@
 
 10:30 Deeper into the Technologie (storage / Networking) 
 
-11:15 LABTIME (1)
-
 11:30 BREAK
 
 11:15 Server Configurations and HostetControlPlane & ACM
