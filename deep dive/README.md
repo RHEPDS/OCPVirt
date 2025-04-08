@@ -9,7 +9,7 @@
 
 11:30 BREAK
 
-11:15 Server Configurations and HostetControlPlane & ACM
+11:40 Server Configurations and HostetControlPlane & ACM
 
 12:30 LUNCH BREAK
 
